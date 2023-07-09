@@ -1,0 +1,23 @@
+そろSNS
+	サイト概要
+		サイトテーマ
+			ソロ活している人たちの投稿していたり、それらを見ている人たちが参考しソロ活しやすいようにするSNS。
+		テーマを選んだ理由
+			私自身もソロ活をしていますがインスタやTwitterなど通常のSNSならでは、投稿しづらさなどがある。
+			それらを考え、ソロ活をしている人たちだけのSNSを作り、さらにソロ活をしやすいように作りたいから。
+			またやったことがないけどやってみたい人のために参考になって欲しいから
+		ターゲットユーザ
+			・年齢とか性別関係なくソロ活をしている人。
+			・ソロ活の思い出や写真や記録を残したい人。
+			・ソロ活したことがないがやってみたい人たちが参考になってほしい
+		主な利用シーン
+			OS：Linux(CentOS)
+			言語：HTML,CSS,JavaScript,Ruby,SQL
+			フレームワーク：Ruby on Rails
+			JSライブラリ：jQuery
+			IDE：Cloud9
+	設計書
+	開発環境
+	使用素材
+	実装機能
+		https://docs.google.com/spreadsheets/d/1ysatKsxpg9NPjwCXBXwrosRhRRz7N1xUsbpxoOZqpoQ/edit?usp=sharing
