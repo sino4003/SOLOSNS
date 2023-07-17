@@ -26,6 +26,6 @@
 -   JSライブラリ：jQuery
 -   IDE：Cloud9
 
-### 実装機能
+## 実装機能
 https://docs.google.com/spreadsheets/d/1ysatKsxpg9NPjwCXBXwrosRhRRz7N1xUsbpxoOZqpoQ/edit?usp=sharing
 		
